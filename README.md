@@ -18,8 +18,8 @@ The Stopwatch component displays the elapsed time in the following format:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Rakshathganiga/Stop-Watch.git
+   cd StopWatch
    ```
 2. Install dependencies:
    ```bash
